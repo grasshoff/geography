@@ -1,0 +1,83 @@
+{
+   "_id": "display_definitions",
+     "object_view": {
+        "general": {
+            "no_image_placeholder": false
+        },
+       "top_title": {
+           "format": "%s",
+           "values": [
+               "title"
+           ]
+       },
+       "top_subtitle": {
+           "format": "%s",
+           "values": [
+               "subtitle"
+           ]
+       },
+       "top_attributes": [
+           {
+               "title": "Provenance of column",
+               "value": "archivalInformation->site->provenance"
+           },
+           {
+               "title": "Construction time (building)",
+               "value": "archivalInformation->construction_date"
+           },
+           {
+           "title": "Rebuilding",
+           "value": "archivalInformation->rebuilding"
+       },
+           {
+               "title": "Order",
+               "value": "generalInformation->order"
+           },
+           {
+               "title": "Dimension",
+               "value": "generalInformation->dimension"
+           },
+           {
+               "title": "Material",
+               "value": "generalInformation->material->materialName"
+           },
+           {
+               "title": "Administration unit",
+               "value": "archivalInformation->site->holderInstitution"
+           }
+       ],
+       "main_sections": [
+           {
+               "title": "Description",
+               "value": "generalInformation->description"
+           },
+           {
+               "title": "Reference",
+               "value": "generalInformation->reference"
+           },
+           {
+               "title": "Note",
+               "value": "generalInformation->note"
+           },
+           {
+               "title": "Further Information",
+               "value": "generalInformation->additional_links",
+               "list_of_links": true
+           }
+       ],
+       "resource_sections": [
+           {
+               "title": "3D Model",
+               "resources": "threed_models"
+           },
+           {
+               "title": "Entasis Plot",
+               "resources": "plots"
+           },
+           {
+               "title": "Documentation",
+               "resources": "documentation"
+           }
+       ]
+   }
+}

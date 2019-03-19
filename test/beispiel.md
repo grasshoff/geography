@@ -1,0 +1,31 @@
+##  first test
+* adf
+  - jkasdf
+  - jkasdf
+
+  ``` python
+  a = 3*4
+  print (a)
+  ```
+
+  ```result
+  ```
+
+
+* Jira-style
+   ```python
+   print [i*2 for i in range(1,10)]
+   ```
+
+   ```result
+   : [2, 4, 6, 8, 10, 12, 14, 16, 18]
+   ```
+ * Org-mode style
+   #+BEGIN_SRC python
+a = 32
+print([i*2 for i in range(1,10)])
+   #+END_SRC
+
+```result
+: [2, 4, 6, 8, 10, 12, 14, 16, 18]
+```

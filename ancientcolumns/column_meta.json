@@ -1,0 +1,25 @@
+{
+   "General Information": {
+       "DOI": "{{doi}}",
+       "Title": "{{title}}",
+       "Creator": "{{creator}}",
+       "Publisher": "Edition Topoi",
+       "Publication Year": "{{pub_year}}"
+   },
+   "Technical characteristics": {
+       "Collection": "Ancient Columns",
+       "Resource Type": "Dataset",
+       "Date (Update)": "{{update_date}}"
+   },
+   "Specific attributes": {
+       "Origin / Holder object": "{{holder}}",
+       "Holder digital source": "{{holder_digital_source}}"
+   },
+   "Conditions for use": {
+       "Rights": "Creative Commons BY-NC-SA 3.0 DE"
+   },
+   "Annotations": {
+       "Subjects": "History of Science, Archaeology, Architecture",
+       "Version": "{{version}}"
+   }
+}

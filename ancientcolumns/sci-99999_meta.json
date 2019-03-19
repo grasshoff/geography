@@ -1,0 +1,39 @@
+{
+  "General Information": {
+    "DOI": "",
+    "Title": "Key Description",
+    "Creator": "Bernhard Fritsch",
+    "Publisher": "Edition Topoi",
+    "Publication Year": "2018",
+    "Subtitle": "Ancient Columns",
+    "Description": ""
+  },
+  "Technical characteristics": {
+    "Collection": "Ancient Columns",
+    "Contributor Name": "",
+    "Contributor Type": "",
+    "Resource Type": "",
+    "Format": "JSON",
+    "Tools": "",
+    "Size": "",
+    "Date (Update)": ""
+  },
+  "Specific Attributes": {
+    "Origin / Holder object": "Bernhard Fritsch",
+    "Inventory Number": "",
+    "Holder digital source": "",
+    "Alternate Identifier": "",
+    "Related Identifier": "",
+    "Language source/object":"",
+    "Geolocation/region": ""
+  },
+  "Conditions for use": {
+    "Rights": "Creative Commons BY-NC-SA 3.0 DE",
+    "Further legal restrictions or comments": ""
+  },
+  "Annotations": {
+    "Subjects": "101 Ancient Cultures, 102 History",
+    "Version": "",
+    "Further information": ""
+  }
+}
