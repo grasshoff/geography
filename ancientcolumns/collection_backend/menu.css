@@ -1,0 +1,149 @@
+/*dropdown*/
+
+#menu-button {    
+	background-color: rgba(0, 0, 0, .4);
+    z-index: 1100;	
+}
+
+#menu-content {	
+    display: none;
+    color: #F1F1F1;
+}
+
+.dropdown-content ul {
+	 padding:0px
+}
+
+.show {display:block;}
+
+/**/
+
+.menuLight, .menuMedium, .menuDark {
+	z-index:1;	
+	padding: 65px 10px 10px 25px;
+    height:400px;
+	
+}
+
+.menuLight {
+    background: rgba(0, 0, 0, 0.8);
+
+	font-color:#7ba02d;
+    color: #7ba02d;
+}
+
+.menuMedium {
+    background: rgba(0, 0, 0, 0.9);
+	color: #618b9d;	
+}
+
+.menuDark {
+	z-index:1;	
+    background: rgba(0, 0, 0, 1);
+    color: #d6d1bd;
+}
+
+#menu-content li {
+	margin-bottom: 20px;
+}
+
+#menu-content li a {
+	font-size: 20px;
+	line-height: 110%;
+	text-decoration: none !important;
+}
+
+.menuLight li a {
+	color: #7ba02d;
+}
+
+.menuMedium li a {
+	color: #618b9d;	
+}	
+
+.menuDark li a {
+	color: #d6d1bd;
+}
+
+#menu-content ul { 
+    list-style-image: none;
+}
+ 
+#menu-content ul li {
+	position: relative;
+}
+#menu-content ul li:hover:before {
+	position:absolute;
+	list-style: none;
+	margin-left:-20px;
+	font-size:25px;
+	content: ">";
+}
+
+.scrollCollections{
+	max-height: 200px;
+	overflow: auto;
+	position: relative;
+}
+
+#menu-content .scrollCollections li a {
+	font-size:16px;	
+}
+
+.menuBottom {
+    border-style: dotted;
+    border-top-color: #d6d1bd;
+    border-top-width: 1px;
+	padding-top: 10px;
+	height: 80px;
+	width:300px;
+	bottom: 0px;
+	position:absolute; bottom:0;
+	border-width:1px 0px 0px 0px;
+}
+
+#menu-content .menuBottom li a{
+	font-size: 16px;
+	line-height: 28px;
+}
+
+#menu-content .menuBottom li {
+	margin-bottom: 0px;
+}
+
+
+/*
+
+/*Floating div*/
+.navbar-fixed-top {
+	height:80px;
+	background-color: #d6d1bd;
+	background: -webkit-gradient(linear, left top, right top, from(#968c78), to(#d6d1bd));
+	background: -webkit-linear-gradient(left, #968c78 0%, #d6d1bd 100%);
+	background: -moz-linear-gradient(left, #968c78 0%, #d6d1bd 100%);
+	background: -ms-linear-gradient(left, #968c78 0%, #d6d1bd 100%);
+	background: -o-linear-gradient(left, #968c78 0%, #d6d1bd 100%);
+	background: linear-gradient(to right, #968c78 0%, #d6d1bd 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#968c78', endColorstr='#d6d1bd',GradientType=1 );
+}
+
+
+#logo {
+	text-transform: uppercase;
+	font: bold 32px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-align: right;
+	margin-left:-105px;
+	margin-right: 0px;
+}
+
+#logo a {
+	font-family: "Open Sans", sans-serif;
+	text-decoration: none;
+}
+
+@media only screen and (max-width : 1365px) {
+	#logo {
+		margin-left: 0px;
+		margin-bottom:0px;
+	}
+}

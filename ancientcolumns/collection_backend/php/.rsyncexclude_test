@@ -1,0 +1,9 @@
+.git*
+*~
+.rsyncexclude*
+*.sublime-*
+.idea/*
+docs/*
+ICG/
+BSDP/
+Makefile
