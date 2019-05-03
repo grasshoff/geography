@@ -1,0 +1,113 @@
+<html>
+<head>
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/purl.js"></script>
+<script>
+	function loadStyles(url) {
+		var url = "https://citation.crosscite.org/styles/";
+		var select = $("#styles");
+		$.getAsync(url, function(data) {
+			data.sort();
+			var options = arrayToSelectOptions(data);
+			select.html(options);
+			select.val("chicago-author-date-16th-edition");
+
+			loadLocales();
+		});
+		return select;
+	};
+
+	function loadLocales(url) {
+		var url = "https://citation.crosscite.org/locales/";
+		var select = $("#locales");
+		$.getAsync(url, function(data) {
+			data.sort();
+			var options = arrayToSelectOptions(data);
+			select.html(options);
+			select.val("en-US");
+
+			var doi = $.url().param("doi");
+			if (doi && (doi.length>0)){
+				$("#doi").val(doi);
+				submit();
+			}
+		});
+		return select;
+	};
+
+	$.getAsync = function(url, success) {
+		$.ajax({
+			url: url
+		}).done(function(data) {
+			success(data);
+		});
+	};
+
+	function arrayToSelectOptions(array) {
+		var options = $.map(array, function(elem) {
+			return '<option value="' + elem + '">' + elem + '</option>';
+		});
+		return options.join("");
+	}
+
+	function submit() {
+		$("#citation").hide();
+		var doi = $("#doi").val();
+		var style = $("#styles").val();
+		var locale = $("#locales").val();
+
+		var url = "https://data.datacite.org/text/x-bibliography;style="+style+";locale="+locale+"/"+doi; 
+		$.ajax({
+			url: url,
+            crossDomain: true,
+			error : function(jqXHR, textStatus, errorThrown) {
+				alert("Error while retrieving information. Either the DOI servers are down or the DOI is not (yet) registered");
+			}
+		}).done(function(data) {
+			$("#citation").text(data);
+			$("#citation").show();
+		});
+		return false;
+	}
+
+	function init() {
+		$("form").submit(submit);
+
+		loadStyles();
+	}
+
+	$(document).ready(init);
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="css/ui.css" />
+<!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="css/ui_ie.css" />
+<![endif]--> 
+
+</head>
+<body>
+  <h1>
+    DOI Citation Formatter
+  </h1>
+  <div>
+    <img src="http://citation.crosscite.org/img/datacite.svg" width="140px"/>
+    <img src="https://assets.crossref.org/logo/crossref-logo-landscape-200.svg" width="140px"/>
+    <img src="http://citation.crosscite.org/img/medra.png" width="140px"/>
+    <img src="http://citation.crosscite.org/img/istic.gif" width="140px"/>
+  </div>
+  <form id="form" action="">
+    <label for="doi">DOI:</label> 
+    <input id="doi" type="text" />
+    
+    <label for="styles">Style:</label> 
+    <select id="styles"></select>
+    
+    <label for="locales">Locale:</label> 
+    <select id="locales"></select>
+    
+    <input type="submit" value="Format"/>
+  </form>
+  <div id="citation"></div>
+</body>
+</html>

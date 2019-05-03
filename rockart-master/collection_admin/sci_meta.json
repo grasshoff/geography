@@ -1,0 +1,32 @@
+{
+     "General Information": {
+         "DOI": "{doi}",
+         "Title": "Figures for CLMN {assoc_obj_id}",
+         "Creator": "??",
+         "Publisher": "Edition Topoi",
+         "Publication Year": "2015",
+         "Subtitle": "??",
+         "Description": "??"
+     },
+     "Technical characteristics": {
+         "Collection": "Ancient Columns",
+         "Contributor Name": "??",
+         "Contributor Type": "??",
+         "Resource Type": "Image",
+         "Tools": "Digilib"
+     },
+     "Specific Attributes": {
+         "Origin / Holder object": "??",
+         "Inventory Number": "??",
+         "Holder digital source": "Exzellenzcluster 264 – Topoi",
+         "Related Identifier": "CLMN {assoc_obj_id}"
+     },
+     "Conditions for use": {
+         "Rights": "Creative Commons BY-NC-SA 3.0 DE"
+     },
+     "Annotations": {
+         "Subjects": "??",
+         "Version": "{version}"
+     }
+ }
+ 

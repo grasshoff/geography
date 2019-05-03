@@ -1,0 +1,41 @@
+{
+  "_id": "filter_hierarchy",
+  "tree": {
+    "attributes": {
+      "listing_by": {
+        "dictionary": {
+        }
+      }
+    },
+   "resources": {
+       "listing_by": {
+           "dictionary": {
+               "images": {
+                   "title": "Images",
+                   "listing_by": {
+                       "filter_criterion": "has_images"
+                   }
+               },
+               "3dmodels": {
+                   "title": "3D Models",
+                   "listing_by": {
+                       "filter_criterion": "has_threed_models"
+                   }
+               },
+               "plots": {
+                   "title": "Plots",
+                   "listing_by": {
+                       "filter_criterion": "has_plots"
+                   }
+               },
+               "documentation": {
+                        "title": "Documentation",
+                        "listing_by": {
+                            "filter_criterion": "has_documentation"
+                        }
+                    }
+           }
+       }
+     }
+  }
+}
