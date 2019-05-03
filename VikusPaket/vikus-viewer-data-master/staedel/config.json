@@ -1,0 +1,61 @@
+{
+  "project": {
+    "name": "Staedl",
+    "quality": 1,
+    "multiple": false
+  },
+  "loader": {
+    "info": "data/info.md",
+    "timeline": "data/timeline.csv",
+    "items": "data/data.csv",
+    "textures": {
+      "medium": {
+        "size": 256,
+        "url": "data/sprites/web_web_full.json"
+      },
+      "detail": {
+        "size": 1025,
+        "url": "https://vikusviewer.fh-potsdam.de/staedel/data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "https://vikusviewer.fh-potsdam.de/staedel/data/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#505454",
+    "fontColorActive": "#ffffff",
+    "fontBackground": "#505454",
+    "textShadow": "none",
+    "canvasBackground": "#fdfeff",
+    "timelineBackground": "#fdfeff",
+    "timelineFontColor": "#505454",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#fffefa",
+    "detailBackground": "#fdfeff",
+    "sidebarInverted": true,
+    "infoBackground": "#fdfeff",
+    "infoFontColor": "#505454",
+    "searchbarBackground": "#9da2a7"
+  },
+  "projection": {
+    "columns": 2
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "keywords",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      },
+      {
+        "name": "year",
+        "source": "year",
+        "display": "column",
+        "type": "text"
+      }
+    ]
+  }
+}

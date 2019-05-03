@@ -1,0 +1,104 @@
+{
+  "project": {
+    "name": "Goethes Ausleihen"
+},
+  "loader": {
+    "info": "https://vikusviewer.fh-potsdam.de/goethe/data/info.md",
+    "timeline": "https://vikusviewer.fh-potsdam.de/goethe/data/timeline.csv",
+    "items": "https://vikusviewer.fh-potsdam.de/goethe/data/data.csv",
+    "textures": {
+      "preview": "https://vikusviewer.fh-potsdam.de/goethe/data/sprites256jpg/web_web_preview.json",
+      "medium": {
+        "size": 256,
+        "url": "https://vikusviewer.fh-potsdam.de/goethe/data/sprites256jpg/web_web_full.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "https://vikusviewer.fh-potsdam.de/goethe/data/1024jpg/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#ffffff",
+    "fontColorActive": "#ffffff",
+    "fontBackground": "#634512",
+    "textShadow": "1px 1px 0px #00000085",
+    "canvasBackground": "#a06400",
+    "timelineBackground": "#fbfaf9",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#ffffff",
+    "detailBackground": "#ffffff",
+    "sidebarInverted": true,
+    "infoBackground": "#563a0b",
+    "infoFontColor": "#ffffff",
+    "searchbarBackground": "#583700"
+  },
+  "projection": {
+    "columns": 4
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Titel",
+        "source": "_titel",
+        "display": "wide",
+        "type": "text"
+      },
+      {
+        "name": "Bemerkung",
+        "source": "_bemerkung",
+        "display": "wide",
+        "type": "text"
+      },
+      {
+        "name": "Stichworte",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      },
+      {
+        "name": "Ausleihe",
+        "source": "_ausleihe",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Rückgabe",
+        "source": "_rueckgabe",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Verfasser",
+        "source": "_verfasser",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "OPAC",
+        "source": "_opac",
+        "display": "column",
+        "type": "link"
+      },
+      {
+        "name": "Digitalisat des Titels",
+        "source": "_digitalisat1",
+        "display": "column",
+        "type": "link"
+      },
+      {
+        "name": "Historisches Ausleihverzeichnis",
+        "source": "_digitalisat2",
+        "display": "column",
+        "type": "link"
+      },
+      {
+        "name": "Erwähnung in 'Elise von Keudell: Goethe als Benutzer der Weimarer Bibliothek'",
+        "source": "_digitalisat3",
+        "display": "column",
+        "type": "link"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "project": {
+    "name": "Münzen und Medaillen",
+    "quality": 1,
+    "multiple": true
+},
+  "loader": {
+    "info": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/info.md",
+    "timeline": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/timeline.csv",
+    "items": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/data.csv",
+    "textures": {
+      "preview": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/sprites/menu_small_web.json",
+      "medium": {
+        "size": 256,
+        "url": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/sprites256/web_web_full.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/1024jpg/"
+      },
+      "big": {
+        "size": 4000,
+        "url": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/4000jpg/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#2b2b2b",
+    "fontColorActive": "#ffffff",
+    "fontBackground": "#2b2b2b",
+    "textShadow": "none",
+    "canvasBackground": "#f8f9fa",
+    "timelineBackground": "#f8f9fa",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#fffefa",
+    "detailBackground": "#f8f9fa",
+    "infoBackground": "#f8f9fa",
+    "infoFontColor": "#2b2b2b",
+    "searchbarBackground": "#353535"
+  },
+  "projection": {
+    "columns": 2
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Titel",
+        "source": "_titel",
+        "display": "wide",
+        "type": "text"
+      },
+      {
+        "name": "Person",
+        "source": "_personen",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Ort / Datierung",
+        "source": "_ortdatierung",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Material / Technik",
+        "source": "_material",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Masse",
+        "source": "_gewicht",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Durchmesser",
+        "source": "_durchmesser",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Abmessungen",
+        "source": "_abmessungen",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Beschreibung",
+        "source": "_beschreibung",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Inventarnr.",
+        "source": "_inventar_nr",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Literatur",
+        "source": "_literatur",
+        "display": "column",
+        "type": "markdown"
+      },
+      {
+        "name": "Schlagworte",
+        "source": "_schlagworte",
+        "display": "column",
+        "type": "markdown"
+      }
+    ]
+  }
+}

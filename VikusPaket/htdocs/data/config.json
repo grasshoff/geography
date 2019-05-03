@@ -1,0 +1,96 @@
+{
+  "project": {
+    "name": "Euler",
+    "quality": 1,
+    "multiple": true
+  },
+  "loader": {
+    "info": "http://localhost:8888/data/info.md",
+    "timeline": "http://localhost:8888/data/timeline.csv",
+    "items": "http://localhost:8888/data/data.csv",
+    "tsne": "http://localhost:8888/data/tsne.csv",
+    "textures": {
+      "medium": {
+        "size": 256,
+        "url": "http://localhost:8888/data/sprites/web_web_full.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "http://localhost:8888/data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "http://localhost:8888/data/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#fff",
+    "fontColorActive": "#fff",
+    "linkColor": "#fff",
+    "fontBackground": "#4c4c47",
+    "textShadow": "1px 1px 1px #66665b",
+    "canvasBackground": "#999989",
+    "timelineBackground": "#f2f2e6",
+    "timelineFontColor": "#000",
+    "detailBackground": "#fff",
+    "infoBackground": "#66665b",
+    "infoFontColor": "#fff",
+    "searchbarBackground": "#66665b"
+  },
+  "projection": {
+    "columns": 5
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Titel",
+        "source": "_titel",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Verfasser",
+        "source": "_verfasser",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Ort, Verlag, Jahr",
+        "source": "_ort",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Umfang",
+        "source": "_umfang",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Inhalt",
+        "source": "_inhalt",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Beilagen",
+        "source": "_beilagen",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Signatur",
+        "source": "_id",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Schlagworte",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      }
+    ]
+  }
+}

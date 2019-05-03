@@ -1,0 +1,1929 @@
+{
+    "sprite": {
+        "0cb7f7290a10d33a1e679df328d9ff77313b0857": {
+            "version": 0,
+            "data": {
+                "name": "0",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "bf32be17032b50cc26c881856d810214d2031461": {
+            "version": 0,
+            "data": {
+                "name": "1",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "acbe74cdfd22aab8c4d1d20d9100b4b207d238e0": {
+            "version": 0,
+            "data": {
+                "name": "10",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "762399ef9df0abf374a915b68a1185e99063b9cf": {
+            "version": 0,
+            "data": {
+                "name": "11",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "8edb2e9a2423e577bcdba0f46f8bfbee1359219d": {
+            "version": 0,
+            "data": {
+                "name": "12",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "b0c4fdb166c03f7f29567fa18125192437697a70": {
+            "version": 0,
+            "data": {
+                "name": "13",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "b378d25c50f13ac068b8aa1f43e764ce33a7803b": {
+            "version": 0,
+            "data": {
+                "name": "14",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "056f9f0530bd405a5eab1f8a24fd02fb69e02a5e": {
+            "version": 0,
+            "data": {
+                "name": "16",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "b5876e8d6b34e060a25ab9672bfe172941ba2e19": {
+            "version": 0,
+            "data": {
+                "name": "15",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "a4e603f2dab164541a484d2eea3bfdc599d54da0": {
+            "version": 0,
+            "data": {
+                "name": "17",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "ed46169ffe6cc040efb0fd3207ebe957c742f73c": {
+            "version": 0,
+            "data": {
+                "name": "18",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "40d23bebb3ab1c43d71d085bf7242dbdd76d3526": {
+            "version": 0,
+            "data": {
+                "name": "19",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "1acae5a8575b0584a236bef66387f72c5d56bc07": {
+            "version": 0,
+            "data": {
+                "name": "2",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "c6c449845f159577638a64db73844a23c5b44933": {
+            "version": 0,
+            "data": {
+                "name": "20",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "99ecf2c80de9b3795c36d11cba961a61bdd6e273": {
+            "version": 0,
+            "data": {
+                "name": "21",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "85eaccf6be3eb4859fbb2d546f8895ab87c2c5ec": {
+            "version": 0,
+            "data": {
+                "name": "22",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "6d33a5ee07024e4e102164beee1d1631d2404383": {
+            "version": 0,
+            "data": {
+                "name": "23",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "123a3bb9a5bc4c540267c7761920ad696e9693d5": {
+            "version": 0,
+            "data": {
+                "name": "24",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "cfb1d8e089fbe0429ca0cb60e393aa776fb8a32e": {
+            "version": 0,
+            "data": {
+                "name": "25",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "8eed3c61cdadaaed61431aaee913ba8e62e95b72": {
+            "version": 0,
+            "data": {
+                "name": "26",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "419a18d19b709203196292334abcd086f0aab1a0": {
+            "version": 0,
+            "data": {
+                "name": "27",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "0cbd69a7d0e5ca12621a0c6d76882cce190754bc": {
+            "version": 0,
+            "data": {
+                "name": "28",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "51a88973fe3635d2b39f1033ad01376f92730d32": {
+            "version": 0,
+            "data": {
+                "name": "29",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "a2210d7e1628bb9f710000fdd45ca46147df09cf": {
+            "version": 0,
+            "data": {
+                "name": "30",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4988040bba57a04c7c86a6d174035a509016c9ea": {
+            "version": 0,
+            "data": {
+                "name": "3",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "145df7a5b87c856426133bd656d6e2cebbc9cac6": {
+            "version": 0,
+            "data": {
+                "name": "31",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "892b036956840e444680fb12470bf408b6fa041f": {
+            "version": 0,
+            "data": {
+                "name": "32",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4decf8227bc9e0ca8131a9efd9eab13f9e3d90d0": {
+            "version": 0,
+            "data": {
+                "name": "33",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4d4d1b031e3f5175d0403d9de6fb9ebb1428e636": {
+            "version": 0,
+            "data": {
+                "name": "34",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "b59202b617ca99327876dd0b14fff4f993e09a87": {
+            "version": 0,
+            "data": {
+                "name": "35",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "507c72996bdaddb8678dac247a797b13082fff3c": {
+            "version": 0,
+            "data": {
+                "name": "36",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "7a500f7f657caf83d7fd693521a5bab9373926b2": {
+            "version": 0,
+            "data": {
+                "name": "37",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "1dc8afd9451a867372c823dfe8dbe41f136ce11f": {
+            "version": 0,
+            "data": {
+                "name": "38",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "159e9f218b9c92add047567cb6c3e6aee64b2e09": {
+            "version": 0,
+            "data": {
+                "name": "39",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "9cee92071d6884e5a08835877e6b549dd5bdf9db": {
+            "version": 0,
+            "data": {
+                "name": "4",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "bc3f04aea959387429c18875511da4184edd3eae": {
+            "version": 0,
+            "data": {
+                "name": "40",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "87a265cd0ee4d1fab4ee569a819163cbfb07b616": {
+            "version": 0,
+            "data": {
+                "name": "41",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "3494d08e986022ef44de9da8fc465b624a0a830a": {
+            "version": 0,
+            "data": {
+                "name": "42",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "d1999e4004d77d829e4f8c88218396b0c41060fe": {
+            "version": 0,
+            "data": {
+                "name": "43",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "1d8e4445545a0cb212ca5736ea80f7bb06c6d2ca": {
+            "version": 0,
+            "data": {
+                "name": "44",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "3d65c5cb35727d913c194d79f1645c9b999f8297": {
+            "version": 0,
+            "data": {
+                "name": "45",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "f6cca94d7da67f67419f0268458f3d24b6a1bada": {
+            "version": 0,
+            "data": {
+                "name": "46",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "31060005ce6b3dd4acc675a25aed7629f9f4581a": {
+            "version": 0,
+            "data": {
+                "name": "47",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "476ce6ed205266f48c716b3b027a922176fffb2d": {
+            "version": 0,
+            "data": {
+                "name": "48",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "23db44cd5525ad377bcb2ce2aa341989bc1cf1d3": {
+            "version": 0,
+            "data": {
+                "name": "49",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "e6efcb395d5d6a70887003872a86213e746e3562": {
+            "version": 0,
+            "data": {
+                "name": "5",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "c5a769426977d6a3cf1e928db19796c9c54b6941": {
+            "version": 0,
+            "data": {
+                "name": "50",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "89dcafd3e3e6d5eec3d11df429075684d65b379f": {
+            "version": 0,
+            "data": {
+                "name": "51",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "42462d92c7192780094539c7d8e3c0659bbd6272": {
+            "version": 0,
+            "data": {
+                "name": "52",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "7688a266857a44adbfc05e5fcc045998cdfbe4db": {
+            "version": 0,
+            "data": {
+                "name": "53",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "abc3cf8405ee8b56eae5338557ad1aa88708c5c3": {
+            "version": 0,
+            "data": {
+                "name": "54",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "fd860897060328dcef1a06bbc1d6a21ea23d0766": {
+            "version": 0,
+            "data": {
+                "name": "55",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "1cc764756b26a0c6e23985ac558176f39566d3f6": {
+            "version": 0,
+            "data": {
+                "name": "56",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4117a1eb707966300fd5d0d096ab304ab3b96b71": {
+            "version": 0,
+            "data": {
+                "name": "57",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "0fcdf7a2a06bdd211b4cae7725fbb5f88bd6ab95": {
+            "version": 0,
+            "data": {
+                "name": "58",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4f43dc8a1679022203a0dcb05b06392e4c4abb9e": {
+            "version": 0,
+            "data": {
+                "name": "6",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "6caf8665565973e6eebcd6624cdca7c9b5ed29af": {
+            "version": 0,
+            "data": {
+                "name": "59",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4f48452bfd7c579827fdb575738ea8698de539b2": {
+            "version": 0,
+            "data": {
+                "name": "60",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "5fe8ab9bd052e4d9dc73418f644283dce16b0fb5": {
+            "version": 0,
+            "data": {
+                "name": "61",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "0e897ff8c06c07e09b692e8eddca8697b59c5e73": {
+            "version": 0,
+            "data": {
+                "name": "62",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4508edf5f79aea475d5e0a23ddcab2aa64f99919": {
+            "version": 0,
+            "data": {
+                "name": "63",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "4d5fb0fb6075caa697a7bbb7c33d9278d830750b": {
+            "version": 0,
+            "data": {
+                "name": "65",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "ac6b1165e4b691658030a31329c87b4ebf803674": {
+            "version": 0,
+            "data": {
+                "name": "64",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "9a5efaf748b5fd0a40143821fb91514bfb9a8fb6": {
+            "version": 0,
+            "data": {
+                "name": "66",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "8137d88e3db7ed06b9ef9fccab2c01396debf416": {
+            "version": 0,
+            "data": {
+                "name": "7",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "21151f810adc8d9460430d226984f0f825ec05df": {
+            "version": 0,
+            "data": {
+                "name": "8",
+                "width": 362,
+                "height": 512
+            }
+        },
+        "0176390768085952a6438aadf9348723eb5bc5a5": {
+            "version": 0,
+            "data": {
+                "name": "9",
+                "width": 362,
+                "height": 512
+            }
+        }
+    },
+    "scaledSprite": {
+        "v20cb7f7290a10d33a1e679df328d9ff77313b0857_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_0cb7f7290a10d33a1e679df328d9ff77313b0857_full.png"
+            }
+        },
+        "v2762399ef9df0abf374a915b68a1185e99063b9cf_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_762399ef9df0abf374a915b68a1185e99063b9cf_full.png"
+            }
+        },
+        "v2bf32be17032b50cc26c881856d810214d2031461_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_bf32be17032b50cc26c881856d810214d2031461_full.png"
+            }
+        },
+        "v2b0c4fdb166c03f7f29567fa18125192437697a70_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_b0c4fdb166c03f7f29567fa18125192437697a70_full.png"
+            }
+        },
+        "v28edb2e9a2423e577bcdba0f46f8bfbee1359219d_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_8edb2e9a2423e577bcdba0f46f8bfbee1359219d_full.png"
+            }
+        },
+        "v2b378d25c50f13ac068b8aa1f43e764ce33a7803b_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_b378d25c50f13ac068b8aa1f43e764ce33a7803b_full.png"
+            }
+        },
+        "v2acbe74cdfd22aab8c4d1d20d9100b4b207d238e0_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_acbe74cdfd22aab8c4d1d20d9100b4b207d238e0_full.png"
+            }
+        },
+        "v2b5876e8d6b34e060a25ab9672bfe172941ba2e19_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_b5876e8d6b34e060a25ab9672bfe172941ba2e19_full.png"
+            }
+        },
+        "v2056f9f0530bd405a5eab1f8a24fd02fb69e02a5e_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_056f9f0530bd405a5eab1f8a24fd02fb69e02a5e_full.png"
+            }
+        },
+        "v2ed46169ffe6cc040efb0fd3207ebe957c742f73c_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_ed46169ffe6cc040efb0fd3207ebe957c742f73c_full.png"
+            }
+        },
+        "v21acae5a8575b0584a236bef66387f72c5d56bc07_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_1acae5a8575b0584a236bef66387f72c5d56bc07_full.png"
+            }
+        },
+        "v240d23bebb3ab1c43d71d085bf7242dbdd76d3526_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_40d23bebb3ab1c43d71d085bf7242dbdd76d3526_full.png"
+            }
+        },
+        "v2a4e603f2dab164541a484d2eea3bfdc599d54da0_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_a4e603f2dab164541a484d2eea3bfdc599d54da0_full.png"
+            }
+        },
+        "v2c6c449845f159577638a64db73844a23c5b44933_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_c6c449845f159577638a64db73844a23c5b44933_full.png"
+            }
+        },
+        "v299ecf2c80de9b3795c36d11cba961a61bdd6e273_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_99ecf2c80de9b3795c36d11cba961a61bdd6e273_full.png"
+            }
+        },
+        "v2123a3bb9a5bc4c540267c7761920ad696e9693d5_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_123a3bb9a5bc4c540267c7761920ad696e9693d5_full.png"
+            }
+        },
+        "v285eaccf6be3eb4859fbb2d546f8895ab87c2c5ec_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_85eaccf6be3eb4859fbb2d546f8895ab87c2c5ec_full.png"
+            }
+        },
+        "v26d33a5ee07024e4e102164beee1d1631d2404383_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_6d33a5ee07024e4e102164beee1d1631d2404383_full.png"
+            }
+        },
+        "v28eed3c61cdadaaed61431aaee913ba8e62e95b72_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_8eed3c61cdadaaed61431aaee913ba8e62e95b72_full.png"
+            }
+        },
+        "v2cfb1d8e089fbe0429ca0cb60e393aa776fb8a32e_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_cfb1d8e089fbe0429ca0cb60e393aa776fb8a32e_full.png"
+            }
+        },
+        "v2419a18d19b709203196292334abcd086f0aab1a0_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_419a18d19b709203196292334abcd086f0aab1a0_full.png"
+            }
+        },
+        "v20cbd69a7d0e5ca12621a0c6d76882cce190754bc_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_0cbd69a7d0e5ca12621a0c6d76882cce190754bc_full.png"
+            }
+        },
+        "v251a88973fe3635d2b39f1033ad01376f92730d32_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_51a88973fe3635d2b39f1033ad01376f92730d32_full.png"
+            }
+        },
+        "v2a2210d7e1628bb9f710000fdd45ca46147df09cf_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_a2210d7e1628bb9f710000fdd45ca46147df09cf_full.png"
+            }
+        },
+        "v24988040bba57a04c7c86a6d174035a509016c9ea_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4988040bba57a04c7c86a6d174035a509016c9ea_full.png"
+            }
+        },
+        "v2892b036956840e444680fb12470bf408b6fa041f_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_892b036956840e444680fb12470bf408b6fa041f_full.png"
+            }
+        },
+        "v2145df7a5b87c856426133bd656d6e2cebbc9cac6_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_145df7a5b87c856426133bd656d6e2cebbc9cac6_full.png"
+            }
+        },
+        "v24decf8227bc9e0ca8131a9efd9eab13f9e3d90d0_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4decf8227bc9e0ca8131a9efd9eab13f9e3d90d0_full.png"
+            }
+        },
+        "v2b59202b617ca99327876dd0b14fff4f993e09a87_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_b59202b617ca99327876dd0b14fff4f993e09a87_full.png"
+            }
+        },
+        "v24d4d1b031e3f5175d0403d9de6fb9ebb1428e636_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4d4d1b031e3f5175d0403d9de6fb9ebb1428e636_full.png"
+            }
+        },
+        "v2507c72996bdaddb8678dac247a797b13082fff3c_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_507c72996bdaddb8678dac247a797b13082fff3c_full.png"
+            }
+        },
+        "v27a500f7f657caf83d7fd693521a5bab9373926b2_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_7a500f7f657caf83d7fd693521a5bab9373926b2_full.png"
+            }
+        },
+        "v2159e9f218b9c92add047567cb6c3e6aee64b2e09_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_159e9f218b9c92add047567cb6c3e6aee64b2e09_full.png"
+            }
+        },
+        "v21dc8afd9451a867372c823dfe8dbe41f136ce11f_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_1dc8afd9451a867372c823dfe8dbe41f136ce11f_full.png"
+            }
+        },
+        "v287a265cd0ee4d1fab4ee569a819163cbfb07b616_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_87a265cd0ee4d1fab4ee569a819163cbfb07b616_full.png"
+            }
+        },
+        "v29cee92071d6884e5a08835877e6b549dd5bdf9db_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_9cee92071d6884e5a08835877e6b549dd5bdf9db_full.png"
+            }
+        },
+        "v2bc3f04aea959387429c18875511da4184edd3eae_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_bc3f04aea959387429c18875511da4184edd3eae_full.png"
+            }
+        },
+        "v23494d08e986022ef44de9da8fc465b624a0a830a_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_3494d08e986022ef44de9da8fc465b624a0a830a_full.png"
+            }
+        },
+        "v23d65c5cb35727d913c194d79f1645c9b999f8297_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_3d65c5cb35727d913c194d79f1645c9b999f8297_full.png"
+            }
+        },
+        "v2d1999e4004d77d829e4f8c88218396b0c41060fe_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_d1999e4004d77d829e4f8c88218396b0c41060fe_full.png"
+            }
+        },
+        "v231060005ce6b3dd4acc675a25aed7629f9f4581a_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_31060005ce6b3dd4acc675a25aed7629f9f4581a_full.png"
+            }
+        },
+        "v21d8e4445545a0cb212ca5736ea80f7bb06c6d2ca_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_1d8e4445545a0cb212ca5736ea80f7bb06c6d2ca_full.png"
+            }
+        },
+        "v2f6cca94d7da67f67419f0268458f3d24b6a1bada_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_f6cca94d7da67f67419f0268458f3d24b6a1bada_full.png"
+            }
+        },
+        "v223db44cd5525ad377bcb2ce2aa341989bc1cf1d3_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_23db44cd5525ad377bcb2ce2aa341989bc1cf1d3_full.png"
+            }
+        },
+        "v2c5a769426977d6a3cf1e928db19796c9c54b6941_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_c5a769426977d6a3cf1e928db19796c9c54b6941_full.png"
+            }
+        },
+        "v2476ce6ed205266f48c716b3b027a922176fffb2d_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_476ce6ed205266f48c716b3b027a922176fffb2d_full.png"
+            }
+        },
+        "v289dcafd3e3e6d5eec3d11df429075684d65b379f_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_89dcafd3e3e6d5eec3d11df429075684d65b379f_full.png"
+            }
+        },
+        "v242462d92c7192780094539c7d8e3c0659bbd6272_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_42462d92c7192780094539c7d8e3c0659bbd6272_full.png"
+            }
+        },
+        "v2e6efcb395d5d6a70887003872a86213e746e3562_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_e6efcb395d5d6a70887003872a86213e746e3562_full.png"
+            }
+        },
+        "v27688a266857a44adbfc05e5fcc045998cdfbe4db_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_7688a266857a44adbfc05e5fcc045998cdfbe4db_full.png"
+            }
+        },
+        "v24117a1eb707966300fd5d0d096ab304ab3b96b71_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4117a1eb707966300fd5d0d096ab304ab3b96b71_full.png"
+            }
+        },
+        "v24f43dc8a1679022203a0dcb05b06392e4c4abb9e_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4f43dc8a1679022203a0dcb05b06392e4c4abb9e_full.png"
+            }
+        },
+        "v2abc3cf8405ee8b56eae5338557ad1aa88708c5c3_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_abc3cf8405ee8b56eae5338557ad1aa88708c5c3_full.png"
+            }
+        },
+        "v2fd860897060328dcef1a06bbc1d6a21ea23d0766_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_fd860897060328dcef1a06bbc1d6a21ea23d0766_full.png"
+            }
+        },
+        "v20fcdf7a2a06bdd211b4cae7725fbb5f88bd6ab95_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_0fcdf7a2a06bdd211b4cae7725fbb5f88bd6ab95_full.png"
+            }
+        },
+        "v21cc764756b26a0c6e23985ac558176f39566d3f6_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_1cc764756b26a0c6e23985ac558176f39566d3f6_full.png"
+            }
+        },
+        "v24f48452bfd7c579827fdb575738ea8698de539b2_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4f48452bfd7c579827fdb575738ea8698de539b2_full.png"
+            }
+        },
+        "v26caf8665565973e6eebcd6624cdca7c9b5ed29af_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_6caf8665565973e6eebcd6624cdca7c9b5ed29af_full.png"
+            }
+        },
+        "v25fe8ab9bd052e4d9dc73418f644283dce16b0fb5_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_5fe8ab9bd052e4d9dc73418f644283dce16b0fb5_full.png"
+            }
+        },
+        "v20e897ff8c06c07e09b692e8eddca8697b59c5e73_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_0e897ff8c06c07e09b692e8eddca8697b59c5e73_full.png"
+            }
+        },
+        "v24508edf5f79aea475d5e0a23ddcab2aa64f99919_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4508edf5f79aea475d5e0a23ddcab2aa64f99919_full.png"
+            }
+        },
+        "v24d5fb0fb6075caa697a7bbb7c33d9278d830750b_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_4d5fb0fb6075caa697a7bbb7c33d9278d830750b_full.png"
+            }
+        },
+        "v29a5efaf748b5fd0a40143821fb91514bfb9a8fb6_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_9a5efaf748b5fd0a40143821fb91514bfb9a8fb6_full.png"
+            }
+        },
+        "v2ac6b1165e4b691658030a31329c87b4ebf803674_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_ac6b1165e4b691658030a31329c87b4ebf803674_full.png"
+            }
+        },
+        "v28137d88e3db7ed06b9ef9fccab2c01396debf416_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_8137d88e3db7ed06b9ef9fccab2c01396debf416_full.png"
+            }
+        },
+        "v221151f810adc8d9460430d226984f0f825ec05df_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_21151f810adc8d9460430d226984f0f825ec05df_full.png"
+            }
+        },
+        "v20176390768085952a6438aadf9348723eb5bc5a5_full_trimmed": {
+            "version": 0,
+            "data": {
+                "width": 362,
+                "height": 512,
+                "trim": null,
+                "path": "/Users/gerdgrasshoff/Dropbox/data/tmp/scaled_sprite_0176390768085952a6438aadf9348723eb5bc5a5_full.png"
+            }
+        }
+    },
+    "spritesheet": {
+        "bf6bafd21e5a5446bfb3c06842a720f0ade9a5a4": {
+            "version": 3,
+            "data": {
+                "cachedImagePath": "/Users/gerdgrasshoff/Dropbox/data/tmp/bf6bafd21e5a5446bfb3c06842a720f0ade9a5a4.jpeg",
+                "loadingInformation": [
+                    {
+                        "name": "63",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "64",
+                        "position": {
+                            "x": 0,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "65",
+                        "position": {
+                            "x": 0,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "66",
+                        "position": {
+                            "x": 363,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "7",
+                        "position": {
+                            "x": 726,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "8",
+                        "position": {
+                            "x": 1089,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "9",
+                        "position": {
+                            "x": 1452,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    }
+                ],
+                "outputFilesize": 98233
+            }
+        },
+        "a67fad7e2d05069c70185e65ff7b530c5ee15c35": {
+            "version": 3,
+            "data": {
+                "cachedImagePath": "/Users/gerdgrasshoff/Dropbox/data/tmp/a67fad7e2d05069c70185e65ff7b530c5ee15c35.jpeg",
+                "loadingInformation": [
+                    {
+                        "name": "22",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "23",
+                        "position": {
+                            "x": 0,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "24",
+                        "position": {
+                            "x": 0,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "25",
+                        "position": {
+                            "x": 363,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "26",
+                        "position": {
+                            "x": 726,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "27",
+                        "position": {
+                            "x": 1089,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "28",
+                        "position": {
+                            "x": 1452,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "29",
+                        "position": {
+                            "x": 363,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "3",
+                        "position": {
+                            "x": 726,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "30",
+                        "position": {
+                            "x": 1089,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "31",
+                        "position": {
+                            "x": 1452,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "32",
+                        "position": {
+                            "x": 363,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "33",
+                        "position": {
+                            "x": 726,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "34",
+                        "position": {
+                            "x": 1089,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "35",
+                        "position": {
+                            "x": 1452,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    }
+                ],
+                "outputFilesize": 266278
+            }
+        },
+        "7a1f7556a7d8ec732148dbd72243166a12c9108b": {
+            "version": 3,
+            "data": {
+                "cachedImagePath": "/Users/gerdgrasshoff/Dropbox/data/tmp/7a1f7556a7d8ec732148dbd72243166a12c9108b.jpeg",
+                "loadingInformation": [
+                    {
+                        "name": "5",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "50",
+                        "position": {
+                            "x": 0,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "51",
+                        "position": {
+                            "x": 0,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "52",
+                        "position": {
+                            "x": 363,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "53",
+                        "position": {
+                            "x": 726,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "54",
+                        "position": {
+                            "x": 1089,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "55",
+                        "position": {
+                            "x": 1452,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "56",
+                        "position": {
+                            "x": 363,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "57",
+                        "position": {
+                            "x": 726,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "58",
+                        "position": {
+                            "x": 1089,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "59",
+                        "position": {
+                            "x": 1452,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "6",
+                        "position": {
+                            "x": 363,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "60",
+                        "position": {
+                            "x": 726,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "61",
+                        "position": {
+                            "x": 1089,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "62",
+                        "position": {
+                            "x": 1452,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    }
+                ],
+                "outputFilesize": 264090
+            }
+        },
+        "488370e655f31b71533037b7f181511934ee9504": {
+            "version": 3,
+            "data": {
+                "cachedImagePath": "/Users/gerdgrasshoff/Dropbox/data/tmp/488370e655f31b71533037b7f181511934ee9504.jpeg",
+                "loadingInformation": [
+                    {
+                        "name": "39",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "0",
+                        "position": {
+                            "x": 0,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "10",
+                        "position": {
+                            "x": 0,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "11",
+                        "position": {
+                            "x": 363,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "12",
+                        "position": {
+                            "x": 726,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "13",
+                        "position": {
+                            "x": 1089,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "14",
+                        "position": {
+                            "x": 1452,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "15",
+                        "position": {
+                            "x": 363,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "16",
+                        "position": {
+                            "x": 726,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "17",
+                        "position": {
+                            "x": 1089,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "18",
+                        "position": {
+                            "x": 1452,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "19",
+                        "position": {
+                            "x": 363,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "2",
+                        "position": {
+                            "x": 726,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "20",
+                        "position": {
+                            "x": 1089,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "21",
+                        "position": {
+                            "x": 1452,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    }
+                ],
+                "outputFilesize": 280663
+            }
+        },
+        "31c73b26f1df31c199cf9de56549ab644f604e13": {
+            "version": 3,
+            "data": {
+                "cachedImagePath": "/Users/gerdgrasshoff/Dropbox/data/tmp/31c73b26f1df31c199cf9de56549ab644f604e13.jpeg",
+                "loadingInformation": [
+                    {
+                        "name": "36",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "37",
+                        "position": {
+                            "x": 0,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "38",
+                        "position": {
+                            "x": 0,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "1",
+                        "position": {
+                            "x": 363,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "4",
+                        "position": {
+                            "x": 726,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "40",
+                        "position": {
+                            "x": 1089,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "41",
+                        "position": {
+                            "x": 1452,
+                            "y": 1026
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "42",
+                        "position": {
+                            "x": 363,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "43",
+                        "position": {
+                            "x": 726,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "44",
+                        "position": {
+                            "x": 1089,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "45",
+                        "position": {
+                            "x": 1452,
+                            "y": 513
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "46",
+                        "position": {
+                            "x": 363,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "47",
+                        "position": {
+                            "x": 726,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "48",
+                        "position": {
+                            "x": 1089,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    },
+                    {
+                        "name": "49",
+                        "position": {
+                            "x": 1452,
+                            "y": 0
+                        },
+                        "dimension": {
+                            "w": 362,
+                            "h": 512
+                        }
+                    }
+                ],
+                "outputFilesize": 261164
+            }
+        }
+    }
+}

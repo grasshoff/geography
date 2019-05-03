@@ -1,0 +1,110 @@
+{
+	"_id": {
+		"0": "ro-Hb-Sz-01"
+	},
+	"_rev": {
+		"0": "2-109d303942b7ae5ff98baeb6c17978b1"
+	},
+	"id": {
+		"0": "Hb-Sz-01"
+	},
+	"type": {
+		"0": "ro"
+	},
+	"ro_type": {
+		"0": "scene"
+	},
+	"scene": {
+		"0": "[{'title': '1', 'id': 'Hb-Sz-01'}]"
+	},
+	"title": {
+		"0": "Scene 1"
+	},
+	"images": {
+		"0": "[{'title': 'BOCA0001', 'file': '0001'}]"
+	},
+	"files": {
+		"0": "TT33_Caverns-Hb-Sz-01-Orthophoto-D_A_Werning-2016.jpg"
+	},
+	"object_title": {
+		"0": "Scene 1"
+	},
+	"thumb_file": {
+		"0": "TT33_Caverns-Hb-Sz-01-Orthophoto-D_A_Werning-2016.jpg"
+	},
+	"DOI": {
+		"0": "2-8-1"
+	},
+	"thumb_baseurl": {
+		"0": "BOCA\/ServiceBOCA\/BOCA0001"
+	},
+	"tableau": {
+		"0": "['1']"
+	},
+	"holder": {
+		"0": "Daniel A. Werning"
+	},
+	"Ordner": {
+		"0": "BOCA0001"
+	},
+	"wall": {
+		"0": "['XVII, western']"
+	},
+	"obj_id": {
+		"0": "Hb-Sz-01"
+	},
+	"object_folder": {
+		"0": "Hb-Sz-01"
+	},
+	"subtitle": {
+		"0": ""
+	},
+	"GeneralInformation_DOI": {
+		"0": "10.17171\/2-8-1"
+	},
+	"Title": {
+		"0": "Scene 1"
+	},
+	"Creator": {
+		"0": "Daniel A. Werning"
+	},
+	"Publisher": {
+		"0": "Edition Topoi"
+	},
+	"Publication Year": {
+		"0": "2018"
+	},
+	"Collection": {
+		"0": "The Book of Caverns in Theban Tomb 33: Arbeitsphotos"
+	},
+	"Resource Type": {
+		"0": "Dataset"
+	},
+	"Date (Update)": {
+		"0": "24.04.2018"
+	},
+	"Origin \/ Holder object": {
+		"0": "Daniel A. Werning"
+	},
+	"Holder digital source": {
+		"0": "Exzellenzcluster 264 \u2013 Topoi"
+	},
+	"Rights": {
+		"0": "CC-BY-SA 3.0 DE"
+	},
+	"Subjects": {
+		"0": ""
+	},
+	"Version": {
+		"0": "1.0"
+	},
+	"hierarchy_entries": {
+		"0": "['type;scene', 'wall;xvii_western', 'tableau;1']"
+	},
+	"doi": {
+		"0": "10.17171\/2-8-1"
+	},
+	"0001": {
+		"0": "{'id': '0001', 'resources': [{'id': 0, 'file': 'TT33_Caverns-Hb-Sz-01-Orthophoto-D_A_Werning-2016.jpg', 'size_bytes': 0, 'name': None, 'alternative_files': [], 'metadata': {'General Information': {'DOI': '10.17171\/2-8-186-1', 'Title': 'TT33, Book of Caverns, scene I, Orthophoto, 2016', 'Creator': 'Daniel A. Werning', 'Publisher': 'Edition Topoi', 'Publication Year': '2018', 'Subtitle': 'Room XVII, western wall', 'Description': 'Photo of Scene 1'}, 'Technical characteristics': {'Collection': 'The Book of Caverns in Theban Tomb 33: Arbeitsphotos', 'Contributor Name': 'Daniel A. Werning', 'Contributor Type': 'Editor', 'Resource Type': 'Images', 'Tools': 'Digilib'}, 'Specific Attributes': {'Origin \/ Holder object': 'Daniel A. Werning', 'Holder digital source': 'Exzellenzcluster 264 \u2013 Topoi'}, 'Conditions for use': {'Rights': 'CC-BY-SA 3.0 DE'}, 'Annotations': {'Subjects': 'Egyptology', 'Version': '1.0'}}}], 'title': 'TT33, Book of Caverns, scene I, Orthophoto, 2016', 'resources_baseurl': 'BOCA\/ReposBOCA\/BOCA0001', 'obj_title': 'Scene 1', 'sci_version': '2.0', 'assoc_obj_id': 'Hb-Sz-01', 'hierarchy_entries': [], 'subtitle': 'Room XVII, western wall', 'tool': '\/TOOLS\/DGLB0001\/Digilib_local.sCi', 'name': 'BOCA0001', 'resource_thumbs_baseurl': 'BOCA\/ServiceBOCA\/BOCA0001', 'metadata': {}}"
+	}
+}

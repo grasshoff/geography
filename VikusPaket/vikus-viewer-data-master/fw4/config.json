@@ -1,0 +1,119 @@
+{
+  "project": {
+    "name": "FW4: Vergangene Visionen",
+    "quality": 1
+ },
+  "loader": {
+    "info": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/info.md",
+    "timeline": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/timeline.csv",
+    "items": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/data.csv",
+    "textures": {
+      "medium": {
+        "size": 128,
+        "url": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/sprites128/web_web_full.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/1024jpg/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "https://vikusviewer.fh-potsdam.de/fw4/vis/data/4096jpg/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#f7efcd",
+    "fontColorActive": "#1c1e1f",
+    "fontBackground": "#f7efcd",
+    "textShadow": "1px 1px 0px #00000085",
+    "canvasBackground": "#1c1e1f",
+    "timelineBackground": "#f7efcd",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#fffefa",
+    "detailBackground": "#fffefa",
+    "infoBackground": "#353535",
+    "infoFontColor": "#f7efcd",
+    "searchbarBackground": "#353535"
+  },
+  "projection": {
+    "columns": 6
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Beschreibung",
+        "source": "_beschreibung",
+        "display": "wide",
+        "type": "text"
+      },
+      {
+        "name": "Kommentar",
+        "source": "_kommentar",
+        "display": "wide",
+        "type": "text"
+      },
+      {
+        "name": "Inventarnr.",
+        "source": "_inventarnr",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Person",
+        "source": "_person",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Material / Technik",
+        "source": "_marterial",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Wasserzeichen",
+        "source": "_wasserzeichen",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Maße",
+        "source": "_masse",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Bezeichnungen",
+        "source": "_bezeichnungen",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Datierung",
+        "source": "_zeit",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Thementexte",
+        "source": "_thementexte",
+        "display": "column",
+        "type": "markdown"
+      },
+      {
+        "name": "Literatur",
+        "source": "_literatur",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Schlagworte",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      }
+    ]
+  }
+}

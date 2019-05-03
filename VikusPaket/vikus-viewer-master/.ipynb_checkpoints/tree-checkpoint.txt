@@ -1,0 +1,545 @@
+.
+├── GenerateVIkus.ipynb
+├── README.md
+├── css
+│   ├── infobar.css
+│   ├── style.css
+│   └── timeline.css
+├── data
+│   ├── 1024
+│   │   ├── EulerCondorcet0.jpg
+│   │   ├── EulerCondorcet1.jpg
+│   │   ├── EulerCondorcet10.jpg
+│   │   ├── EulerCondorcet11.jpg
+│   │   ├── EulerCondorcet12.jpg
+│   │   ├── EulerCondorcet13.jpg
+│   │   ├── EulerCondorcet14.jpg
+│   │   ├── EulerCondorcet15.jpg
+│   │   ├── EulerCondorcet16.jpg
+│   │   ├── EulerCondorcet17.jpg
+│   │   ├── EulerCondorcet18.jpg
+│   │   ├── EulerCondorcet19.jpg
+│   │   ├── EulerCondorcet2.jpg
+│   │   ├── EulerCondorcet20.jpg
+│   │   ├── EulerCondorcet21.jpg
+│   │   ├── EulerCondorcet22.jpg
+│   │   ├── EulerCondorcet23.jpg
+│   │   ├── EulerCondorcet24.jpg
+│   │   ├── EulerCondorcet25.jpg
+│   │   ├── EulerCondorcet26.jpg
+│   │   ├── EulerCondorcet27.jpg
+│   │   ├── EulerCondorcet28.jpg
+│   │   ├── EulerCondorcet29.jpg
+│   │   ├── EulerCondorcet3.jpg
+│   │   ├── EulerCondorcet30.jpg
+│   │   ├── EulerCondorcet31.jpg
+│   │   ├── EulerCondorcet32.jpg
+│   │   ├── EulerCondorcet33.jpg
+│   │   ├── EulerCondorcet34.jpg
+│   │   ├── EulerCondorcet35.jpg
+│   │   ├── EulerCondorcet36.jpg
+│   │   ├── EulerCondorcet37.jpg
+│   │   ├── EulerCondorcet38.jpg
+│   │   ├── EulerCondorcet39.jpg
+│   │   ├── EulerCondorcet4.jpg
+│   │   ├── EulerCondorcet40.jpg
+│   │   ├── EulerCondorcet41.jpg
+│   │   ├── EulerCondorcet42.jpg
+│   │   ├── EulerCondorcet43.jpg
+│   │   ├── EulerCondorcet44.jpg
+│   │   ├── EulerCondorcet45.jpg
+│   │   ├── EulerCondorcet46.jpg
+│   │   ├── EulerCondorcet47.jpg
+│   │   ├── EulerCondorcet48.jpg
+│   │   ├── EulerCondorcet49.jpg
+│   │   ├── EulerCondorcet5.jpg
+│   │   ├── EulerCondorcet50.jpg
+│   │   ├── EulerCondorcet51.jpg
+│   │   ├── EulerCondorcet52.jpg
+│   │   ├── EulerCondorcet53.jpg
+│   │   ├── EulerCondorcet54.jpg
+│   │   ├── EulerCondorcet55.jpg
+│   │   ├── EulerCondorcet56.jpg
+│   │   ├── EulerCondorcet57.jpg
+│   │   ├── EulerCondorcet58.jpg
+│   │   ├── EulerCondorcet59.jpg
+│   │   ├── EulerCondorcet6.jpg
+│   │   ├── EulerCondorcet60.jpg
+│   │   ├── EulerCondorcet61.jpg
+│   │   ├── EulerCondorcet62.jpg
+│   │   ├── EulerCondorcet63.jpg
+│   │   ├── EulerCondorcet64.jpg
+│   │   ├── EulerCondorcet65.jpg
+│   │   ├── EulerCondorcet66.jpg
+│   │   ├── EulerCondorcet7.jpg
+│   │   ├── EulerCondorcet8.jpg
+│   │   └── EulerCondorcet9.jpg
+│   ├── 4096
+│   │   ├── 133480518.jpg
+│   │   ├── EulerCondorcet0.jpg
+│   │   ├── EulerCondorcet1.jpg
+│   │   ├── EulerCondorcet10.jpg
+│   │   ├── EulerCondorcet11.jpg
+│   │   ├── EulerCondorcet12.jpg
+│   │   ├── EulerCondorcet13.jpg
+│   │   ├── EulerCondorcet14.jpg
+│   │   ├── EulerCondorcet15.jpg
+│   │   ├── EulerCondorcet16.jpg
+│   │   ├── EulerCondorcet17.jpg
+│   │   ├── EulerCondorcet18.jpg
+│   │   ├── EulerCondorcet19.jpg
+│   │   ├── EulerCondorcet2.jpg
+│   │   ├── EulerCondorcet21.jpg
+│   │   ├── EulerCondorcet22.jpg
+│   │   ├── EulerCondorcet23.jpg
+│   │   ├── EulerCondorcet24.jpg
+│   │   ├── EulerCondorcet25.jpg
+│   │   ├── EulerCondorcet26.jpg
+│   │   ├── EulerCondorcet27.jpg
+│   │   ├── EulerCondorcet28.jpg
+│   │   ├── EulerCondorcet29.jpg
+│   │   ├── EulerCondorcet3.jpg
+│   │   ├── EulerCondorcet30.jpg
+│   │   ├── EulerCondorcet31.jpg
+│   │   ├── EulerCondorcet32.jpg
+│   │   ├── EulerCondorcet33.jpg
+│   │   ├── EulerCondorcet34.jpg
+│   │   ├── EulerCondorcet35.jpg
+│   │   ├── EulerCondorcet36.jpg
+│   │   ├── EulerCondorcet37.jpg
+│   │   ├── EulerCondorcet38.jpg
+│   │   ├── EulerCondorcet39.jpg
+│   │   ├── EulerCondorcet4.jpg
+│   │   ├── EulerCondorcet40.jpg
+│   │   ├── EulerCondorcet41.jpg
+│   │   ├── EulerCondorcet42.jpg
+│   │   ├── EulerCondorcet43.jpg
+│   │   ├── EulerCondorcet44.jpg
+│   │   ├── EulerCondorcet45.jpg
+│   │   ├── EulerCondorcet46.jpg
+│   │   ├── EulerCondorcet47.jpg
+│   │   ├── EulerCondorcet48.jpg
+│   │   ├── EulerCondorcet49.jpg
+│   │   ├── EulerCondorcet5.jpg
+│   │   ├── EulerCondorcet50.jpg
+│   │   ├── EulerCondorcet51.jpg
+│   │   ├── EulerCondorcet52.jpg
+│   │   ├── EulerCondorcet53.jpg
+│   │   ├── EulerCondorcet54.jpg
+│   │   ├── EulerCondorcet55.jpg
+│   │   ├── EulerCondorcet56.jpg
+│   │   ├── EulerCondorcet57.jpg
+│   │   ├── EulerCondorcet58.jpg
+│   │   ├── EulerCondorcet59.jpg
+│   │   ├── EulerCondorcet6.jpg
+│   │   ├── EulerCondorcet60.jpg
+│   │   ├── EulerCondorcet61.jpg
+│   │   ├── EulerCondorcet62.jpg
+│   │   ├── EulerCondorcet63.jpg
+│   │   ├── EulerCondorcet64.jpg
+│   │   ├── EulerCondorcet65.jpg
+│   │   ├── EulerCondorcet66.jpg
+│   │   ├── EulerCondorcet7.jpg
+│   │   ├── EulerCondorcet8.jpg
+│   │   └── EulerCondorcet9.jpg
+│   ├── config.json
+│   ├── config.json~
+│   ├── data
+│   │   ├── EulerCondorcet0.jpg
+│   │   ├── EulerCondorcet0.pdf
+│   │   ├── EulerCondorcet0.png
+│   │   ├── EulerCondorcet1.jpg
+│   │   ├── EulerCondorcet1.pdf
+│   │   ├── EulerCondorcet1.png
+│   │   ├── EulerCondorcet10.jpg
+│   │   ├── EulerCondorcet10.pdf
+│   │   ├── EulerCondorcet10.png
+│   │   ├── EulerCondorcet11.jpg
+│   │   ├── EulerCondorcet11.pdf
+│   │   ├── EulerCondorcet11.png
+│   │   ├── EulerCondorcet12.jpg
+│   │   ├── EulerCondorcet12.pdf
+│   │   ├── EulerCondorcet12.png
+│   │   ├── EulerCondorcet13.jpg
+│   │   ├── EulerCondorcet13.pdf
+│   │   ├── EulerCondorcet13.png
+│   │   ├── EulerCondorcet14.jpg
+│   │   ├── EulerCondorcet14.pdf
+│   │   ├── EulerCondorcet14.png
+│   │   ├── EulerCondorcet15.jpg
+│   │   ├── EulerCondorcet15.pdf
+│   │   ├── EulerCondorcet15.png
+│   │   ├── EulerCondorcet16.jpg
+│   │   ├── EulerCondorcet16.pdf
+│   │   ├── EulerCondorcet16.png
+│   │   ├── EulerCondorcet17.jpg
+│   │   ├── EulerCondorcet17.pdf
+│   │   ├── EulerCondorcet17.png
+│   │   ├── EulerCondorcet18.jpg
+│   │   ├── EulerCondorcet18.pdf
+│   │   ├── EulerCondorcet18.png
+│   │   ├── EulerCondorcet19.jpg
+│   │   ├── EulerCondorcet19.pdf
+│   │   ├── EulerCondorcet19.png
+│   │   ├── EulerCondorcet2.jpg
+│   │   ├── EulerCondorcet2.pdf
+│   │   ├── EulerCondorcet2.png
+│   │   ├── EulerCondorcet20.jpg
+│   │   ├── EulerCondorcet20.pdf
+│   │   ├── EulerCondorcet20.png
+│   │   ├── EulerCondorcet21.jpg
+│   │   ├── EulerCondorcet21.pdf
+│   │   ├── EulerCondorcet21.png
+│   │   ├── EulerCondorcet22.jpg
+│   │   ├── EulerCondorcet22.pdf
+│   │   ├── EulerCondorcet22.png
+│   │   ├── EulerCondorcet23.jpg
+│   │   ├── EulerCondorcet23.pdf
+│   │   ├── EulerCondorcet23.png
+│   │   ├── EulerCondorcet24.jpg
+│   │   ├── EulerCondorcet24.pdf
+│   │   ├── EulerCondorcet24.png
+│   │   ├── EulerCondorcet25.jpg
+│   │   ├── EulerCondorcet25.pdf
+│   │   ├── EulerCondorcet25.png
+│   │   ├── EulerCondorcet26.jpg
+│   │   ├── EulerCondorcet26.pdf
+│   │   ├── EulerCondorcet26.png
+│   │   ├── EulerCondorcet27.jpg
+│   │   ├── EulerCondorcet27.pdf
+│   │   ├── EulerCondorcet27.png
+│   │   ├── EulerCondorcet28.jpg
+│   │   ├── EulerCondorcet28.pdf
+│   │   ├── EulerCondorcet28.png
+│   │   ├── EulerCondorcet29.jpg
+│   │   ├── EulerCondorcet29.pdf
+│   │   ├── EulerCondorcet29.png
+│   │   ├── EulerCondorcet3.jpg
+│   │   ├── EulerCondorcet3.pdf
+│   │   ├── EulerCondorcet3.png
+│   │   ├── EulerCondorcet30.jpg
+│   │   ├── EulerCondorcet30.pdf
+│   │   ├── EulerCondorcet30.png
+│   │   ├── EulerCondorcet31.jpg
+│   │   ├── EulerCondorcet31.pdf
+│   │   ├── EulerCondorcet31.png
+│   │   ├── EulerCondorcet32.jpg
+│   │   ├── EulerCondorcet32.pdf
+│   │   ├── EulerCondorcet32.png
+│   │   ├── EulerCondorcet33.jpg
+│   │   ├── EulerCondorcet33.pdf
+│   │   ├── EulerCondorcet33.png
+│   │   ├── EulerCondorcet34.jpg
+│   │   ├── EulerCondorcet34.pdf
+│   │   ├── EulerCondorcet34.png
+│   │   ├── EulerCondorcet35.jpg
+│   │   ├── EulerCondorcet35.pdf
+│   │   ├── EulerCondorcet35.png
+│   │   ├── EulerCondorcet36.jpg
+│   │   ├── EulerCondorcet36.pdf
+│   │   ├── EulerCondorcet36.png
+│   │   ├── EulerCondorcet37.jpg
+│   │   ├── EulerCondorcet37.pdf
+│   │   ├── EulerCondorcet37.png
+│   │   ├── EulerCondorcet38.jpg
+│   │   ├── EulerCondorcet38.pdf
+│   │   ├── EulerCondorcet38.png
+│   │   ├── EulerCondorcet39.jpg
+│   │   ├── EulerCondorcet39.pdf
+│   │   ├── EulerCondorcet39.png
+│   │   ├── EulerCondorcet4.jpg
+│   │   ├── EulerCondorcet4.pdf
+│   │   ├── EulerCondorcet4.png
+│   │   ├── EulerCondorcet40.jpg
+│   │   ├── EulerCondorcet40.pdf
+│   │   ├── EulerCondorcet40.png
+│   │   ├── EulerCondorcet41.jpg
+│   │   ├── EulerCondorcet41.pdf
+│   │   ├── EulerCondorcet41.png
+│   │   ├── EulerCondorcet42.jpg
+│   │   ├── EulerCondorcet42.pdf
+│   │   ├── EulerCondorcet42.png
+│   │   ├── EulerCondorcet43.jpg
+│   │   ├── EulerCondorcet43.pdf
+│   │   ├── EulerCondorcet43.png
+│   │   ├── EulerCondorcet44.jpg
+│   │   ├── EulerCondorcet44.pdf
+│   │   ├── EulerCondorcet44.png
+│   │   ├── EulerCondorcet45.jpg
+│   │   ├── EulerCondorcet45.pdf
+│   │   ├── EulerCondorcet45.png
+│   │   ├── EulerCondorcet46.jpg
+│   │   ├── EulerCondorcet46.pdf
+│   │   ├── EulerCondorcet46.png
+│   │   ├── EulerCondorcet47.jpg
+│   │   ├── EulerCondorcet47.pdf
+│   │   ├── EulerCondorcet47.png
+│   │   ├── EulerCondorcet48.jpg
+│   │   ├── EulerCondorcet48.pdf
+│   │   ├── EulerCondorcet48.png
+│   │   ├── EulerCondorcet49.jpg
+│   │   ├── EulerCondorcet49.pdf
+│   │   ├── EulerCondorcet49.png
+│   │   ├── EulerCondorcet5.jpg
+│   │   ├── EulerCondorcet5.pdf
+│   │   ├── EulerCondorcet5.png
+│   │   ├── EulerCondorcet50.jpg
+│   │   ├── EulerCondorcet50.pdf
+│   │   ├── EulerCondorcet50.png
+│   │   ├── EulerCondorcet51.jpg
+│   │   ├── EulerCondorcet51.pdf
+│   │   ├── EulerCondorcet51.png
+│   │   ├── EulerCondorcet52.jpg
+│   │   ├── EulerCondorcet52.pdf
+│   │   ├── EulerCondorcet52.png
+│   │   ├── EulerCondorcet53.jpg
+│   │   ├── EulerCondorcet53.pdf
+│   │   ├── EulerCondorcet53.png
+│   │   ├── EulerCondorcet54.jpg
+│   │   ├── EulerCondorcet54.pdf
+│   │   ├── EulerCondorcet54.png
+│   │   ├── EulerCondorcet55.jpg
+│   │   ├── EulerCondorcet55.pdf
+│   │   ├── EulerCondorcet55.png
+│   │   ├── EulerCondorcet56.jpg
+│   │   ├── EulerCondorcet56.pdf
+│   │   ├── EulerCondorcet56.png
+│   │   ├── EulerCondorcet57.jpg
+│   │   ├── EulerCondorcet57.pdf
+│   │   ├── EulerCondorcet57.png
+│   │   ├── EulerCondorcet58.jpg
+│   │   ├── EulerCondorcet58.pdf
+│   │   ├── EulerCondorcet58.png
+│   │   ├── EulerCondorcet59.jpg
+│   │   ├── EulerCondorcet59.pdf
+│   │   ├── EulerCondorcet59.png
+│   │   ├── EulerCondorcet6.jpg
+│   │   ├── EulerCondorcet6.pdf
+│   │   ├── EulerCondorcet6.png
+│   │   ├── EulerCondorcet60.jpg
+│   │   ├── EulerCondorcet60.pdf
+│   │   ├── EulerCondorcet60.png
+│   │   ├── EulerCondorcet61.jpg
+│   │   ├── EulerCondorcet61.pdf
+│   │   ├── EulerCondorcet61.png
+│   │   ├── EulerCondorcet62.jpg
+│   │   ├── EulerCondorcet62.pdf
+│   │   ├── EulerCondorcet62.png
+│   │   ├── EulerCondorcet63.jpg
+│   │   ├── EulerCondorcet63.pdf
+│   │   ├── EulerCondorcet63.png
+│   │   ├── EulerCondorcet64.jpg
+│   │   ├── EulerCondorcet64.pdf
+│   │   ├── EulerCondorcet64.png
+│   │   ├── EulerCondorcet65.jpg
+│   │   ├── EulerCondorcet65.pdf
+│   │   ├── EulerCondorcet65.png
+│   │   ├── EulerCondorcet66.jpg
+│   │   ├── EulerCondorcet66.pdf
+│   │   ├── EulerCondorcet66.png
+│   │   ├── EulerCondorcet7.jpg
+│   │   ├── EulerCondorcet7.pdf
+│   │   ├── EulerCondorcet7.png
+│   │   ├── EulerCondorcet8.jpg
+│   │   ├── EulerCondorcet8.pdf
+│   │   ├── EulerCondorcet8.png
+│   │   ├── EulerCondorcet9.jpg
+│   │   ├── EulerCondorcet9.pdf
+│   │   ├── EulerCondorcet9.png
+│   │   └── tmp
+│   │       ├── 256
+│   │       │   ├── EulerCondorcet0.png
+│   │       │   ├── EulerCondorcet1.png
+│   │       │   ├── EulerCondorcet10.png
+│   │       │   ├── EulerCondorcet11.png
+│   │       │   ├── EulerCondorcet12.png
+│   │       │   ├── EulerCondorcet13.png
+│   │       │   ├── EulerCondorcet14.png
+│   │       │   ├── EulerCondorcet15.png
+│   │       │   ├── EulerCondorcet16.png
+│   │       │   ├── EulerCondorcet17.png
+│   │       │   ├── EulerCondorcet18.png
+│   │       │   ├── EulerCondorcet19.png
+│   │       │   ├── EulerCondorcet2.png
+│   │       │   ├── EulerCondorcet20.png
+│   │       │   ├── EulerCondorcet21.png
+│   │       │   ├── EulerCondorcet22.png
+│   │       │   ├── EulerCondorcet23.png
+│   │       │   ├── EulerCondorcet24.png
+│   │       │   ├── EulerCondorcet25.png
+│   │       │   ├── EulerCondorcet26.png
+│   │       │   ├── EulerCondorcet27.png
+│   │       │   ├── EulerCondorcet28.png
+│   │       │   ├── EulerCondorcet29.png
+│   │       │   ├── EulerCondorcet3.png
+│   │       │   ├── EulerCondorcet30.png
+│   │       │   ├── EulerCondorcet31.png
+│   │       │   ├── EulerCondorcet32.png
+│   │       │   ├── EulerCondorcet33.png
+│   │       │   ├── EulerCondorcet34.png
+│   │       │   ├── EulerCondorcet35.png
+│   │       │   ├── EulerCondorcet36.png
+│   │       │   ├── EulerCondorcet37.png
+│   │       │   ├── EulerCondorcet38.png
+│   │       │   ├── EulerCondorcet39.png
+│   │       │   ├── EulerCondorcet4.png
+│   │       │   ├── EulerCondorcet40.png
+│   │       │   ├── EulerCondorcet41.png
+│   │       │   ├── EulerCondorcet42.png
+│   │       │   ├── EulerCondorcet43.png
+│   │       │   ├── EulerCondorcet44.png
+│   │       │   ├── EulerCondorcet45.png
+│   │       │   ├── EulerCondorcet46.png
+│   │       │   ├── EulerCondorcet47.png
+│   │       │   ├── EulerCondorcet48.png
+│   │       │   ├── EulerCondorcet49.png
+│   │       │   ├── EulerCondorcet5.png
+│   │       │   ├── EulerCondorcet50.png
+│   │       │   ├── EulerCondorcet51.png
+│   │       │   ├── EulerCondorcet52.png
+│   │       │   ├── EulerCondorcet53.png
+│   │       │   ├── EulerCondorcet54.png
+│   │       │   ├── EulerCondorcet55.png
+│   │       │   ├── EulerCondorcet56.png
+│   │       │   ├── EulerCondorcet57.png
+│   │       │   ├── EulerCondorcet58.png
+│   │       │   ├── EulerCondorcet59.png
+│   │       │   ├── EulerCondorcet6.png
+│   │       │   ├── EulerCondorcet60.png
+│   │       │   ├── EulerCondorcet61.png
+│   │       │   ├── EulerCondorcet62.png
+│   │       │   ├── EulerCondorcet63.png
+│   │       │   ├── EulerCondorcet64.png
+│   │       │   ├── EulerCondorcet65.png
+│   │       │   ├── EulerCondorcet66.png
+│   │       │   ├── EulerCondorcet7.png
+│   │       │   ├── EulerCondorcet8.png
+│   │       │   └── EulerCondorcet9.png
+│   │       ├── 626d8cf7d97616632afa955215db120ce07e67d8.jpeg
+│   │       ├── cache.json
+│   │       ├── scaled_sprite_0d59a29109d2ba639e19935ef5f0f56c310e35f1_full.png
+│   │       ├── scaled_sprite_0eca69ac9c2f9ffe5f86e013f56692c1f8efc592_full.png
+│   │       ├── scaled_sprite_130b592f41a2e458deaa512cf26a56f69fb419ef_full.png
+│   │       ├── scaled_sprite_1a906e6b0157e1ae84ad2faaee579d09d1f9268b_full.png
+│   │       ├── scaled_sprite_1bd77c83623d7b3c0914bbbe6a7a728ebf25c439_full.png
+│   │       ├── scaled_sprite_1d6fb9b26823ccc64c2387dbc83e726a67b2a8b0_full.png
+│   │       ├── scaled_sprite_1e7b7346d06f65d478d212083a86295a537e31f1_full.png
+│   │       ├── scaled_sprite_20eda32d9c92885445662851c20837cbe09b5a29_full.png
+│   │       ├── scaled_sprite_22806a41ffe49b25cb0d0caa89ba7c39d012397d_full.png
+│   │       ├── scaled_sprite_3038d74803954ac071ee55bba682d6a6f3749a1e_full.png
+│   │       ├── scaled_sprite_3bacd765dbfd2add814d122df85d761614e50306_full.png
+│   │       ├── scaled_sprite_41095d42e904f9300f6c09775dee296bae487116_full.png
+│   │       ├── scaled_sprite_4634a1b1f6a995dacef6aac190152aaf304e94ad_full.png
+│   │       ├── scaled_sprite_46b41df6ecd480e56203ff6e8a27107b17a15674_full.png
+│   │       ├── scaled_sprite_4795a8d45ba376c6e75330e3bb65456e3609a0e1_full.png
+│   │       ├── scaled_sprite_47c6eae86c4e193183a1ad9368e512672386e9e8_full.png
+│   │       ├── scaled_sprite_48c07cff661442c637e4ce4de25efe2c4e33d718_full.png
+│   │       ├── scaled_sprite_48e2d0b2a7037d88cc70dc1fba578f8306cbff30_full.png
+│   │       ├── scaled_sprite_4fedb16d024dfe43a9f37fc46d48e563fbc6991d_full.png
+│   │       ├── scaled_sprite_567012e5d3b5f0fea47df4920483e5000a583178_full.png
+│   │       ├── scaled_sprite_5d36080b5e9d19acb9fd653d340ecbb2ebbcfe28_full.png
+│   │       ├── scaled_sprite_5f5235dad85533d255cdc924b56ce131aad3999c_full.png
+│   │       ├── scaled_sprite_608d7efc0c1d4bb03bfdeefe6263014e9fd3f5d2_full.png
+│   │       ├── scaled_sprite_61e436caf6b9ddfdd162df32c078e679778b0810_full.png
+│   │       ├── scaled_sprite_673e171fc2a90ef7ed055575b21fc294d2113484_full.png
+│   │       ├── scaled_sprite_693e4276b8cfe3eb20c352634cdbcb23beda8d28_full.png
+│   │       ├── scaled_sprite_78a715d4d084b30c147490466ade84e0d1870787_full.png
+│   │       ├── scaled_sprite_7de252f282701a6390b63aadb63ad3c5ef8a377d_full.png
+│   │       ├── scaled_sprite_7e63047f2a2312f793ca09c38ccbaef5663b3c03_full.png
+│   │       ├── scaled_sprite_7f766d65765201e2456cfdb80798db10ff8c8ca6_full.png
+│   │       ├── scaled_sprite_8454f5d96f019ef30e7a65369371b0a9b3adfbac_full.png
+│   │       ├── scaled_sprite_8b6b87ee2accaf97e2ded5c33ee5568c15e79cb1_full.png
+│   │       ├── scaled_sprite_8be85c33e08798dfb83eeb0ab33f4af72845e708_full.png
+│   │       ├── scaled_sprite_8d5373624548307f0534e7a074474e008e84a4ed_full.png
+│   │       ├── scaled_sprite_98c432d978f18e9ee3b8ce63f05ccc3c9be6b0e3_full.png
+│   │       ├── scaled_sprite_9966b7c07ff1de8e06c7ce9178806f074d8f275f_full.png
+│   │       ├── scaled_sprite_9b31f9054db24acdf7688363e564888e5af1798f_full.png
+│   │       ├── scaled_sprite_9ece65db6ae19bf2261810d59b6ec8674f31fce7_full.png
+│   │       ├── scaled_sprite_a2d7b0d56236af19bb0e6b5846dd797afb9251f6_full.png
+│   │       ├── scaled_sprite_a30f5da0ef06e1cf66fd3a4948b6beea056144a2_full.png
+│   │       ├── scaled_sprite_a456df3bbeb88bd1eed8ed299d9d484ae2a190c3_full.png
+│   │       ├── scaled_sprite_ae5b26ee47b509eb788cc8f61e161157f39edfec_full.png
+│   │       ├── scaled_sprite_b1c694698e3e2f78c96238442283f8de567b8741_full.png
+│   │       ├── scaled_sprite_c59f778ea773baccb311e3462a07a4b8408b5e70_full.png
+│   │       ├── scaled_sprite_c7cada25ec172382ce51a7b9c5de31dd1e6fe95e_full.png
+│   │       ├── scaled_sprite_c9a9f6d001d1e1c6846d58ef84d67756788d22e7_full.png
+│   │       ├── scaled_sprite_cd6e36a0cc64da072bc9a6f608945b5be5f84e45_full.png
+│   │       ├── scaled_sprite_cee615fb4c1530999a884e45176b94ec55969797_full.png
+│   │       ├── scaled_sprite_cf46697b26a5ab44836564fc120164c71196cdc6_full.png
+│   │       ├── scaled_sprite_cf4ff559b53ba3de1b2ac5523c001c019bf9ae84_full.png
+│   │       ├── scaled_sprite_df8638cbb1c89fc1bf0c0bfdc4e24d761f3725d2_full.png
+│   │       ├── scaled_sprite_df9d7d50aa26ed686b50e6f2d2ddf2188a6ef5fc_full.png
+│   │       ├── scaled_sprite_e10045532139bb1826224ff57e782196d127ec8f_full.png
+│   │       ├── scaled_sprite_e564f94fb89297b94bd5d399d8f1bbae57faa300_full.png
+│   │       ├── scaled_sprite_e5c4606eef03b5ff6fa02efbf540680e7f2e4d7e_full.png
+│   │       ├── scaled_sprite_e7c8d43d3f79297608f42a4fbe036cd1d863be0b_full.png
+│   │       ├── scaled_sprite_eae8d108a26af5f8ad402860f55a20edb906676d_full.png
+│   │       ├── scaled_sprite_ebdff5e2b2a29140574b26ea4c7a8b56de49a67e_full.png
+│   │       ├── scaled_sprite_edf774188321ef87aef199c51354f9ca731620e0_full.png
+│   │       ├── scaled_sprite_f02719c49106e4bdfa16d5a466c25dd7bad97a63_full.png
+│   │       ├── scaled_sprite_f251f2e6b5c409cdfaf4d0e3673abb4cd0904f54_full.png
+│   │       ├── scaled_sprite_f38dc13c0623358f2b7397fb725f479d7dfda9e0_full.png
+│   │       ├── scaled_sprite_f6280a88d79a54252cc6ed405344a378998d28e0_full.png
+│   │       ├── scaled_sprite_fa9a53804efff53f4a52014bf1b72a662ec108f5_full.png
+│   │       ├── scaled_sprite_fba9ad79f9fd9378cf93867ce6255e6bafe8b445_full.png
+│   │       ├── scaled_sprite_fc1acc80fcab58a89b381f4950acdc85f1a0838d_full.png
+│   │       └── scaled_sprite_feca327029e0c4ae4e97ad96a4445b4ffc622b05_full.png
+│   ├── data.csv
+│   ├── info.md
+│   ├── package-lock.json
+│   ├── sprites
+│   │   ├── 626d8cf7d97616632afa955215db120ce07e67d8.jpeg
+│   │   └── web_web_full.json
+│   └── timeline.csv
+├── font
+│   └── Lato
+│       ├── Lato-Black.ttf
+│       ├── Lato-BlackItalic.ttf
+│       ├── Lato-Bold.ttf
+│       ├── Lato-BoldItalic.ttf
+│       ├── Lato-Hairline.ttf
+│       ├── Lato-HairlineItalic.ttf
+│       ├── Lato-Italic.ttf
+│       ├── Lato-Light.ttf
+│       ├── Lato-LightItalic.ttf
+│       ├── Lato-Regular.ttf
+│       └── OFL.txt
+├── img
+│   ├── close.svg
+│   ├── info-alt.svg
+│   ├── info.svg
+│   ├── infobar_scroll.svg
+│   ├── infobar_scroll_b.svg
+│   ├── infobar_tags.svg
+│   ├── infobar_tags_b.svg
+│   ├── infobar_time.svg
+│   ├── infobar_time_b.svg
+│   ├── infobutton.svg
+│   ├── infobutton2.svg
+│   ├── infobutton_b.svg
+│   ├── koenigspapier.png
+│   ├── search.svg
+│   ├── sideclose.svg
+│   ├── sideinfo.svg
+│   └── verticalinfo.png
+├── index.html
+├── js
+│   ├── canvas.js
+│   ├── d3.v3.min.js
+│   ├── loader.js
+│   ├── lodash.min.js
+│   ├── marked.min.js
+│   ├── modernizr-custom.js
+│   ├── pixi-packer-parser.js
+│   ├── pixi.min.js
+│   ├── pixi.min.js.map
+│   ├── search.js
+│   ├── sidebars.js
+│   ├── tags.js
+│   ├── timeline.js
+│   ├── utils.js
+│   ├── viz.js
+│   └── vue.min.js
+└── tree.txt
+
+12 directories, 530 files
