@@ -1,0 +1,9 @@
+* Date
+* Time
+* Para
+* Star
+* Astro
+* PER
+* GEOM
+** first inequality
+* GEOEXP
